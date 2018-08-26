@@ -1,4 +1,3 @@
 # **Dot-NN**
-A neural network for dots
-\n
-_built in JavaScript_
+A neural network for dots  
+ _built in JavaScript_
